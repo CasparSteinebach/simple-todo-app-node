@@ -1,0 +1,19 @@
+{
+  "name": "todo-app",
+  "version": "0.0.1",
+  "description": "simple todo app to learn node",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CasparSteinebach/simple-todo-app-node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CasparSteinebach/simple-todo-app-node/issues"
+  },
+  "homepage": "https://github.com/CasparSteinebach/simple-todo-app-node#readme"
+}
