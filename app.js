@@ -140,6 +140,8 @@ app.put('/api/v1/todos/:id', (req, res) => {
     });
 });
 
+////Set PORT and listener////
+
 const PORT = 5000;
 
 app.listen(PORT, () => {
